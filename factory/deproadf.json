@@ -1,0 +1,9 @@
+{
+	"name": "deproadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cce89519-4ae4-4733-a1a5-b68c3b0adaac",
+		"tenantId": "4755e0b5-26dc-4800-a853-8cd488490706"
+	}
+}
